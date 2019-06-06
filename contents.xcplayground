@@ -3,5 +3,6 @@
     <pages>
         <page name='Jewels-and-Stones'/>
         <page name='To-Lower-Case'/>
+        <page name='Unique-Email-Addresses'/>
     </pages>
 </playground>
