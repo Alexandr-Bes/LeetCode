@@ -5,6 +5,6 @@
         <page name='To-Lower-Case'/>
         <page name='Unique-Email-Addresses'/>
         <page name='Height-Checker'/>
-        <page name='Node'/>
+        <page name='Peak Index in a Mountain Array'/>
     </pages>
 </playground>
